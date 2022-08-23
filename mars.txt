@@ -1,2 +1,2 @@
 This is a test document for the git exercies. adding in some more text to 
-the doc.
+the doc. Learning how to make changes to git using the command line.
