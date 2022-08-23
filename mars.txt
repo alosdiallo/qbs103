@@ -1,3 +1,5 @@
 This is a test document for the git exercies. adding in some more text to 
 the doc. Learning how to make changes to git using the command line.
 Mars is not the best place to move
+
+I have made a new change after adding a second planet.
